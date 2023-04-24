@@ -1,4 +1,3 @@
-package Singleton;
 public class SingleObject {
     //create an object of SingleObject
     private static SingleObject instance = new SingleObject();
