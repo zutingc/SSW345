@@ -1,4 +1,4 @@
-package Visitor;
+package Visitor.Visitor;
 
 public interface ComputerPartVisitor {
     public void visit(Computer computer);

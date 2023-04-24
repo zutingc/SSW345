@@ -1,4 +1,4 @@
-package Visitor;
+package Visitor.Visitor;
 
 public class ComputerPartDisplayVisitor implements ComputerPartVisitor {
     @Override

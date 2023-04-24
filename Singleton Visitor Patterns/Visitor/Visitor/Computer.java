@@ -1,4 +1,4 @@
-package Visitor;
+package Visitor.Visitor;
 
 public class Computer implements ComputerPart {
     ComputerPart[] parts;

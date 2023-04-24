@@ -1,9 +1,8 @@
-package Visitor;
+package Visitor.Visitor;
 
-public class Mouse implements ComputerPart {
+public class Monitor implements ComputerPart {
     @Override
     public void accept(ComputerPartVisitor computerPartVisitor) {
     computerPartVisitor.visit(this);
     }
 }
-    
